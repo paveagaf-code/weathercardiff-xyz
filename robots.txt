@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weathercardiff.xyz/sitemap.xml
